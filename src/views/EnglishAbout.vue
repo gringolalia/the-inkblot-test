@@ -3,11 +3,11 @@ div
 	.section
 		img.bottom-space(alt='A Onça Sulfúrica ', src='../assets/alchemy-sulphuric.svg')
 		.hello
-			h1.mt-5 Polvo na Própria Tinta!
-			h2 Bom Dia, Meia-Noite
-			a.ink-button.black.with.dignity.left-drawer-trigger(href="#bong" style="margin-bottom: 70px") Impress Me
+			h1.mt-5 All About The Router 
+			h2 Portuguese User Experience
+			a.ink-button.black.with.dignity.left-drawer-trigger(href="/about" style="margin-bottom: 70px") Footprint Me
 
-	.section#bong
+	.section
 		.ink-grid(style="z-index: -1")
 			.column-group.horizontal-gutters.top-space
 				.all-33

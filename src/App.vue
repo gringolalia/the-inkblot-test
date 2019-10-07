@@ -7,7 +7,7 @@
 	nav.ink-navigation(style="position: fixed; top: 0; width: 100%;")
 		ul.menu.horizontal.large.black.with.dignity.align-left
 			li.heading
-				a(href='#')
+				a(href='/')
 					i.fas.fa-sun.fa-2x
 					| &nbsp;&nbsp;Engenhocas Cariocas
 			li
@@ -29,12 +29,18 @@
 						a(href='#') Blind Lemon Jefferson
 
 					li
+						a(href='#') Big Bill Broonzy
+					li
+						a(href='#') Leadbelly	
+					li
 						a(href='#') Robert Crossroads Johnson
+					li
+						a(href='#') Bumble Bee Slim
 
 			li
-				a(href='#') Sobre Pobres
+				a(href='/sobre') Sobre Pobres
 			li
-				a(href='#') Sobre Nobres
+				a(href='/about') Sobre Nobres
 			li
 				a.left-drawer-trigger.pull-right.with.dignity
 					i.material-icons menu
@@ -43,7 +49,7 @@
 
 	#main-content.content-drawer.ink-grid(style="z-index: 69;")
 		router-view
-</template>
+</template>	
 
 <style lang="scss">
 #app {
