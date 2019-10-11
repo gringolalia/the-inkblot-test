@@ -1,15 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "e0de064f75979f777056",
-    "url": "/the-inkblot-test/css/app.8347664a.css"
-  },
-  {
-    "revision": "e0de064f75979f777056",
-    "url": "/the-inkblot-test/js/app.e18865c5.js"
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/the-inkblot-test/robots.txt"
   },
   {
     "revision": "4372b901d0e6cb4b2976",
     "url": "/the-inkblot-test/js/chunk-vendors.84dbf3fe.js"
+  },
+  {
+    "revision": "85d58741d9153666a0e7",
+    "url": "/the-inkblot-test/js/app.1cfa8e33.js"
+  },
+  {
+    "revision": "9f0f16d72c2a3955f107cf3a674f4157",
+    "url": "/the-inkblot-test/index.html"
   },
   {
     "revision": "fcfbb86730b77fd71218f617e1c56a98",
@@ -20,11 +24,7 @@ self.__precacheManifest = [
     "url": "/the-inkblot-test/img/alchemy-sulphuric.7af3ec51.svg"
   },
   {
-    "revision": "1a7ac7b21d70a944a1d856fe22b5ded5",
-    "url": "/the-inkblot-test/index.html"
-  },
-  {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/the-inkblot-test/robots.txt"
+    "revision": "85d58741d9153666a0e7",
+    "url": "/the-inkblot-test/css/app.a85213bb.css"
   }
 ];
