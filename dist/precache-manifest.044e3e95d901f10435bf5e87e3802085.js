@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/the-inkblot-test/robots.txt"
   },
   {
-    "revision": "4372b901d0e6cb4b2976",
-    "url": "/the-inkblot-test/js/chunk-vendors.84dbf3fe.js"
+    "revision": "aa21a62b3ed7d07435d7",
+    "url": "/the-inkblot-test/js/chunk-vendors.4341f6b6.js"
   },
   {
-    "revision": "85d58741d9153666a0e7",
-    "url": "/the-inkblot-test/js/app.1cfa8e33.js"
+    "revision": "e4eb44b0e249873d315c",
+    "url": "/the-inkblot-test/js/app.d3ef38c4.js"
   },
   {
-    "revision": "9f0f16d72c2a3955f107cf3a674f4157",
+    "revision": "04b901d3f4a9bec8e2bbbf2e8e886eaa",
     "url": "/the-inkblot-test/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/the-inkblot-test/img/alchemy-sulphuric.7af3ec51.svg"
   },
   {
-    "revision": "85d58741d9153666a0e7",
+    "revision": "e4eb44b0e249873d315c",
     "url": "/the-inkblot-test/css/app.a85213bb.css"
   }
 ];
