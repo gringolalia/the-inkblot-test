@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/the-inkblot-test/precache-manifest.044e3e95d901f10435bf5e87e3802085.js"
+  "/the-inkblot-test/precache-manifest.e24b5a30c1ae23bbc98fd1cd6ab932bf.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "inky-due-with-vue"});
